@@ -13,3 +13,7 @@ The version Python is at the time this was written, is 3.8.3
 This means that Python 4 will eventually come out.
 
 When Python 4 comes out, I will probably update the problems and create new ones.
+# No libraries
+No library problems are in this. 
+
+Problems from librarys might be added :)

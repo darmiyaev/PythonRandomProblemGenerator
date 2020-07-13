@@ -18,26 +18,25 @@ No library problems are in this.
 
 Problems from librarys might be added :)
 # Instructions:
-# NOTE This only works if you have a python IDE (python IDLE, python, visual studio code extension, etc)
 # Windows
-# Method 1:
+# Method 1:(if you have an IDE)
 1. Press code and download as zip
 2. Right click the ZIP and extract all
 3. Open the python script with an IDE of your choice
 4. Debug or run
-# Method 2:(easier)
+# Method 2:(if you have internet)
 1. Search up 'Online compiler python' or Use repl.it or use any online IDE
 2. Open the python script with a text editor or IDE
 3. Copy the code (all)
 4. Paste the code into your online IDE
 # Mac
-# Method 1:
+# Method 1:(if you have internet)
 1. Search up 'Online compiler python' or Use repl.it or use any online IDE
 2. Open the python script with a text editor or IDE
 3. Copy the code (all)
 4. Paste the code into your online IDE
 # Linux
-# Method 1:
+# Method 1:(if you have internet)
 1. Search up 'Online compiler python' or Use repl.it or use any online IDE
 2. Open the python script with a text editor or IDE
 3. Copy the code (all)

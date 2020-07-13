@@ -9,16 +9,28 @@ Code that needs to be edited starts here:
 '''
 def check():
   os.system('clear')
-  randomproblem = random.randint(2)
-  print(randomproblem)
+  randomproblem = random.randint(6)
+  tellproblem(randomproblem)
   if randomproblem == 0:
-    tellproblem(randomproblem)
     print('print("Hello World!")')
     ifequals('Hello World!')
   if randomproblem == 1:
-    tellproblem(randomproblem)
     print('22 + (10 + 20)')
     ifequals('52')
+  if randomproblem == 2:
+    print('9 ** (2)')
+    ifequals('27.0')
+  if randomproblem == 3:
+    print('Taken from sololearn, thanks, sololearn')
+    print('1.25 % 0.5')
+    ifequals('0.25')
+  if randomproblem == 4:
+    print('Taken from sololearn, thanks, sololearn')
+    print('Brian\'s mother: He\'s not the Messiah. He\'s a very naughty boy!\nHow do you prevent an error from happening? (what do you add next the quotes?)')
+    ifequals('Sorry this problem is kind of broken, you add a backward slash')
+  if randomproblem == 5:
+    print('input("")\nDoes this wait for input or find input (1/2)')
+    ifequals('1')
 '''
 Ends here
 '''

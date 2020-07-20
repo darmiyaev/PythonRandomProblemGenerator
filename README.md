@@ -18,6 +18,8 @@ No library problems are in this.
 
 Problems from librarys might be added :)
 # Instructions:
+# For all
+https://repl.it/@darmiyaev/PythonProblems#main.py
 # Windows
 # Method 1:(if you have an IDE)
 1. Press code and download as zip

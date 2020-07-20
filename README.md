@@ -13,6 +13,10 @@ The version Python is at the time this was written, is 3.8.3
 This means that Python 4 will eventually come out.
 
 When Python 4 comes out, I will probably update the problems and create new ones.
+# When is this updated?
+https://repl.it/@darmiyaev/PythonProblems#main.py is updated first.
+
+This gets updated sometimes, i would estimate once a week, this is just a estimation, maybe not true.
 # No libraries
 No library problems are in this. 
 

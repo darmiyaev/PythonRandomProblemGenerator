@@ -1,6 +1,10 @@
 # PythonRandomProblemGenerator
 # What is this
 This gives you random problems from Python, you can also select them yourself.
+# Features
+Over 40 problems.
+
+Over 170 lines of code.
 # Why was this made?
 I have been programming for a long time, but I keep on forgetting my syntax.
 
